@@ -24,7 +24,7 @@ def home():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
 """
 if __name__ == '__main__':
     flag_available, Available_Slots = getSlots(DIST_ID=255, numdays=20, age=21)

@@ -6,3 +6,4 @@
 gunicorn # Deployment to Heroku
 
 Flask
+requests
