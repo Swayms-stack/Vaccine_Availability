@@ -16,12 +16,12 @@ for state_code in range(1,40):
         print(i["district_id"],'\t', i["district_name"])
     print("\n")
 
-DIST_ID = 446
+DIST_ID = int(input ("Enter your district's id : "))
 # Print available centre description (y/n)?
 print_flag = 'y'
 
 numdays = 20
-age = 19
+age = int(input ("Enter your age : "))
 base = datetime.datetime.today()
 date_list = [base + datetime.timedelta(days=x) for x in range(numdays)]
 date_str = [x.strftime("%d-%m-%Y") for x in date_list]
