@@ -2,20 +2,28 @@
 python vaccine_availability.py
 """
 
-
+# standard imports
 import requests
 import datetime
 import json
 import pandas as pd
 import smtplib
 
+def logger(line):
+    with open('log.txt','w+') as f:
+        f.write(line)
+        
+
 for state_code in range(1,40):
-    print("State code: ", state_code)
+    # print("State code: ", state_code)
+    logger("State code: "+ str(state_code))
     response = requests.get("https://cdn-api.co-vin.in/api/v2/admin/location/districts/{}".format(state_code))
     json_data = json.loads(response.text)
     for i in json_data["districts"]:
-        print(i["district_id"],'\t', i["district_name"])
-    print("\n")
+        # print(i["district_id"],'\t', i["district_name"])
+        logger(str(i["district_id"])+'\t'+str(i["district_name"]))
+    # print("\n")
+    logger("\n")
 
 DIST_ID = 446
 # Print available centre description (y/n)?
@@ -33,17 +41,26 @@ for INP_DATE in date_str:
         resp_json = response.json()
         # print(json.dumps(resp_json, indent = 2))
         if resp_json["centers"]:
-            print("Available on: {}".format(INP_DATE))
+            # print("Available on: {}".format(INP_DATE))
+            logger("Available on: {}".format(INP_DATE))
             if(print_flag=='y' or print_flag=='Y'):
                 for center in resp_json["centers"]:
                     for session in center["sessions"]:
                         if session["min_age_limit"] <= age:
+                            logger("\t" +center["name"])
+                            logger("\t" +center["block_name"])
+                            logger("\t Price: " +center["fee_type"])
+                            logger("\t Available Capacity: " +session["available_capacity"])
+                            logger("Available on: {}".format(INP_DATE))
+                            """
                             print("\t", center["name"])
                             print("\t", center["block_name"])
                             print("\t Price: ", center["fee_type"])
                             print("\t Available Capacity: ", session["available_capacity"])
+                            """
                             if(session["vaccine"] != ''):
                                 print("\t Vaccine: ", session["vaccine"])
+                                logger("Available on: {}".format(INP_DATE))
                             print("\n\n")
                             
             
