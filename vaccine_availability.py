@@ -11,9 +11,10 @@ import smtplib
 
 def logger(line):
     with open('log.txt','a+') as f:
-        f.write(line)
+        f.write(line+"\n")
         
-
+"""
+To get the state code
 for state_code in range(1,40):
     # print("State code: ", state_code)
     logger("State code: "+ str(state_code))
@@ -24,6 +25,7 @@ for state_code in range(1,40):
         logger(str(i["district_id"])+'\t'+str(i["district_name"]))
     # print("\n")
     logger("\n")
+"""
 
 DIST_ID = 446
 # Print available centre description (y/n)?
