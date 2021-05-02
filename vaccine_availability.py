@@ -45,6 +45,8 @@ date_str = [x.strftime("%d-%m-%Y") for x in date_list]
 
 
 def getSlots(DIST_ID=446, numdays=20, age=19):
+    flag_available = False
+    Available_Slots = []
     for INP_DATE in date_str:
         URL = "https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/calendarByDistrict?district_id={}&date={}".format(
             DIST_ID, INP_DATE)
@@ -52,8 +54,7 @@ def getSlots(DIST_ID=446, numdays=20, age=19):
         if response.ok:
             resp_json = response.json()
             # print(json.dumps(resp_json, indent = 2))
-            flag_available = False
-            Available_Slots = []
+
             if resp_json["centers"]:
                 # print("Available on: {}".format(INP_DATE))
                 logger("Checking on: {}".format(INP_DATE))
@@ -63,11 +64,15 @@ def getSlots(DIST_ID=446, numdays=20, age=19):
                             if not int(session["available_capacity"]) == 0:
                                 if session["min_age_limit"] <= age:
                                     flag_available = True
-                                    Available_Slots.append({"Date": INP_DATE,
-                                                            "Name": center["name"],
-                                                            "Block Name": center["block_name"],
-                                                            "Fee Type": center["fee_type"],
-                                                            "Available Capacity": session["available_capacity"]})
+                                    dict_to_add = {"Date": INP_DATE,
+                                                   "Name": center["name"],
+                                                   "Block Name": center["block_name"],
+                                                   "Fee Type": center["fee_type"],
+                                                   "Available Capacity": session["available_capacity"],
+                                                   "Vaccine": session["vaccine"]}
+                                    # print(dict_to_add)
+                                    Available_Slots.append(dict_to_add)
+                                    # print(Available_Slots)
                                     logger("\t" + str(center["name"]))
                                     logger("\t" + str(center["block_name"]))
                                     logger("\t Price: " +
@@ -83,17 +88,22 @@ def getSlots(DIST_ID=446, numdays=20, age=19):
                                     """
                                     if(session["vaccine"] != ''):
                                         logger("\t Vaccine: " +
-                                               str(session["vaccLine"]))
+                                               str(session["vaccine"]))
                                     # print("\n\n")
                                     logger("\n\n")
-
-            if flag_available == False:
-                logger("No available slots on {}".format(INP_DATE))
-
-            else:
-                # print("No available slots on {}".format(INP_DATE))
-                logger("No available slots on {}".format(INP_DATE))
     return flag_available, Available_Slots
+
+
+"""
+if flag_available == False:
+            logger("No available slots on {}".format(INP_DATE))
+            return flag_available, Available_Slots
+
+        else:
+            # print("No available slots on {}".format(INP_DATE))
+            logger("No available slots on {}".format(INP_DATE))
+            return flag_available, Available_Slots
+"""
 
 
 def send_mail(body, receiver_email='swaymsdennings@gmail.com',  subject='VACCINE AVAILABILITY NOTIFICATION'):
@@ -127,8 +137,12 @@ def convert_to_str(Available_Slots):
 
 
 if __name__ == '__main__':
-    flag_available, Available_Slots = getSlots()
-    msg = logger("No available slots found")
+    flag_available, Available_Slots = getSlots(DIST_ID=255, numdays=20, age=21)
+    msg = "No available slots found"
+
     body = convert_to_str(Available_Slots) if len(Available_Slots) > 0 else msg
-    send_mail(body, receiver_email='swaymsdennings@gmail.com',
-              subject='VACCINE AVAILABILITY NOTIFICATION')
+    MAILS = ['swaymsdennings@gmail.com', 'njrfarhandasilva10@gmail.com']
+
+    for mail in MAILS:
+        send_mail(body, receiver_email=mail,
+                  subject='VACCINE AVAILABILITY NOTIFICATION')
