@@ -21,5 +21,3 @@ with open('district_data.csv', mode='w') as fh:
         #print(i["district_id"],'\t', i["district_name"])
         fwriter.writerow([state_code,i["district_id"], i["district_name"]])
     #print("\n")
-
-

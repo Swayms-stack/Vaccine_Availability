@@ -1,0 +1,1106 @@
+Available on: 21-05-2021State code: 13	Nicobar1	North and Middle Andaman2	South Andaman
+State code: 29	Anantapur10	Chittoor11	East Godavari5	Guntur4	Krishna7	Kurnool12	Prakasam13	Sri Potti Sriramulu Nellore14	Srikakulam8	Visakhapatnam15	Vizianagaram16	West Godavari6	YSR District, Kadapa (Cuddapah)
+State code: 322	Anjaw20	Changlang25	Dibang Valley23	East Kameng42	East Siang17	Itanagar Capital Complex24	Kamle27	Kra Daadi21	Kurung Kumey33	Lepa Rada29	Lohit40	Longding31	Lower Dibang Valley18	Lower Siang32	Lower Subansiri36	Namsai19	Pakke Kessang39	Papum Pare35	Shi Yomi37	Siang30	Tawang26	Tirap34	Upper Siang41	Upper Subansiri28	West Kameng38	West Siang
+State code: 446	Baksa47	Barpeta765	Biswanath57	Bongaigaon66	Cachar766	Charaideo58	Chirang48	Darrang62	Dhemaji59	Dhubri43	Dibrugarh67	Dima Hasao60	Goalpara53	Golaghat68	Hailakandi764	Hojai54	Jorhat49	Kamrup Metropolitan50	Kamrup Rural51	Karbi-Anglong69	Karimganj61	Kokrajhar63	Lakhimpur767	Majuli55	Morigaon56	Nagaon52	Nalbari44	Sivasagar64	Sonitpur768	South Salmara Mankachar45	Tinsukia65	Udalguri769	West Karbi Anglong
+State code: 574	Araria78	Arwal77	Aurangabad83	Banka98	Begusarai82	Bhagalpur99	Bhojpur100	Buxar94	Darbhanga105	East Champaran79	Gaya104	Gopalganj107	Jamui91	Jehanabad80	Kaimur75	Katihar101	Khagaria76	Kishanganj84	Lakhisarai70	Madhepura95	Madhubani85	Munger86	Muzaffarpur90	Nalanda92	Nawada97	Patna73	Purnia81	Rohtas71	Saharsa96	Samastipur102	Saran93	Sheikhpura87	Sheohar88	Sitamarhi103	Siwan72	Supaul89	Vaishali106	West Champaran
+State code: 6108	Chandigarh
+State code: 7110	Balod111	Baloda bazar112	Balrampur113	Bastar114	Bemetara115	Bijapur116	Bilaspur117	Dantewada118	Dhamtari119	Durg120	Gariaband136	Gaurela Pendra Marwahi 121	Janjgir-Champa122	Jashpur123	Kanker135	Kawardha124	Kondagaon125	Korba126	Koriya127	Mahasamund128	Mungeli129	Narayanpur130	Raigarh109	Raipur131	Rajnandgaon132	Sukma133	Surajpur134	Surguja
+State code: 8137	Dadra and Nagar Haveli
+State code: 9141	Central Delhi145	East Delhi140	New Delhi146	North Delhi147	North East Delhi143	North West Delhi148	Shahdara149	South Delhi144	South East Delhi150	South West Delhi142	West Delhi
+State code: 10151	North Goa152	South Goa
+State code: 11154	Ahmedabad770	Ahmedabad Corporation174	Amreli179	Anand158	Aravalli159	Banaskantha180	Bharuch175	Bhavnagar771	Bhavnagar Corporation176	Botad181	Chhotaudepur182	Dahod163	Dang168	Devbhumi Dwaraka153	Gandhinagar772	Gandhinagar Corporation177	Gir Somnath169	Jamnagar773	Jamnagar Corporation178	Junagadh774	Junagadh Corporation156	Kheda170	Kutch183	Mahisagar160	Mehsana171	Morbi184	Narmada164	Navsari185	Panchmahal161	Patan172	Porbandar173	Rajkot775	Rajkot Corporation162	Sabarkantha165	Surat776	Surat Corporation157	Surendranagar166	Tapi155	Vadodara777	Vadodara Corporation167	Valsad
+State code: 12193	Ambala200	Bhiwani201	Charkhi Dadri199	Faridabad196	Fatehabad188	Gurgaon191	Hisar189	Jhajjar204	Jind190	Kaithal203	Karnal186	Kurukshetra206	Mahendragarh205	Nuh207	Palwal187	Panchkula195	Panipat202	Rewari192	Rohtak194	Sirsa198	Sonipat197	Yamunanagar
+State code: 13219	Bilaspur214	Chamba217	Hamirpur213	Kangra216	Kinnaur211	Kullu210	Lahaul Spiti215	Mandi208	Shimla212	Sirmaur209	Solan218	Una
+State code: 14224	Anantnag223	Bandipore225	Baramulla229	Budgam232	Doda228	Ganderbal230	Jammu234	Kathua231	Kishtwar221	Kulgam226	Kupwara238	Poonch227	Pulwama237	Rajouri235	Ramban239	Reasi236	Samba222	Shopian220	Srinagar233	Udhampur
+State code: 15242	Bokaro245	Chatra253	Deoghar257	Dhanbad258	Dumka247	East Singhbhum243	Garhwa256	Giridih262	Godda251	Gumla255	Hazaribagh259	Jamtara252	Khunti241	Koderma244	Latehar250	Lohardaga261	Pakur246	Palamu254	Ramgarh240	Ranchi260	Sahebganj248	Seraikela Kharsawan249	Simdega263	West Singhbhum
+State code: 16270	Bagalkot276	Bangalore Rural265	Bangalore Urban294	BBMP264	Belgaum274	Bellary272	Bidar271	Chamarajanagar273	Chikamagalur291	Chikkaballapur268	Chitradurga269	Dakshina Kannada275	Davanagere278	Dharwad280	Gadag267	Gulbarga289	Hassan279	Haveri283	Kodagu277	Kolar282	Koppal290	Mandya266	Mysore284	Raichur292	Ramanagara287	Shimoga288	Tumkur286	Udupi281	Uttar Kannada293	Vijayapura285	Yadgir
+State code: 17301	Alappuzha307	Ernakulam306	Idukki297	Kannur295	Kasaragod298	Kollam304	Kottayam305	Kozhikode302	Malappuram308	Palakkad300	Pathanamthitta296	Thiruvananthapuram303	Thrissur299	Wayanad
+State code: 18309	Kargil310	Leh
+State code: 19796	Agatti Island311	Lakshadweep
+State code: 20320	Agar357	Alirajpur334	Anuppur354	Ashoknagar338	Balaghat343	Barwani362	Betul351	Bhind312	Bhopal342	Burhanpur328	Chhatarpur337	Chhindwara327	Damoh350	Datia324	Dewas341	Dhar336	Dindori348	Guna313	Gwalior361	Harda360	Hoshangabad314	Indore315	Jabalpur340	Jhabua353	Katni339	Khandwa344	Khargone335	Mandla319	Mandsaur347	Morena352	Narsinghpur323	Neemuch326	Panna359	Raisen358	Rajgarh322	Ratlam316	Rewa317	Sagar333	Satna356	Sehore349	Seoni332	Shahdol321	Shajapur346	Sheopur345	Shivpuri331	Sidhi330	Singrauli325	Tikamgarh318	Ujjain329	Umaria355	Vidisha
+State code: 21391	Ahmednagar364	Akola366	Amravati397	Aurangabad 384	Beed370	Bhandara367	Buldhana380	Chandrapur388	Dhule379	Gadchiroli378	Gondia386	Hingoli390	Jalgaon396	Jalna371	Kolhapur383	Latur395	Mumbai365	Nagpur382	Nanded387	Nandurbar389	Nashik381	Osmanabad394	Palghar385	Parbhani363	Pune393	Raigad372	Ratnagiri373	Sangli376	Satara374	Sindhudurg375	Solapur392	Thane377	Wardha369	Washim368	Yavatmal
+State code: 22398	Bishnupur399	Chandel400	Churachandpur401	Imphal East402	Imphal West410	Jiribam413	Kakching409	Kamjong408	Kangpokpi412	Noney411	Pherzawl403	Senapati404	Tamenglong407	Tengnoupal405	Thoubal406	Ukhrul
+State code: 23424	East Garo Hills418	East Jaintia Hills414	East Khasi Hills423	North Garo Hills417	Ri-Bhoi421	South Garo Hills422	South West Garo Hills415	South West Khasi Hills420	West Garo Hills416	West Jaintia Hills419	West Khasi Hills
+State code: 24425	Aizawl East426	Aizawl West429	Champhai428	Kolasib432	Lawngtlai431	Lunglei427	Mamit430	Serchhip433	Siaha
+State code: 25434	Dimapur444	Kiphire441	Kohima438	Longleng437	Mokokchung439	Mon435	Peren443	Phek440	Tuensang436	Wokha442	Zunheboto
+State code: 26445	Angul448	Balangir447	Balasore472	Bargarh454	Bhadrak468	Boudh457	Cuttack473	Deogarh458	Dhenkanal467	Gajapati449	Ganjam459	Jagatsinghpur460	Jajpur474	Jharsuguda464	Kalahandi450	Kandhamal461	Kendrapara455	Kendujhar446	Khurda451	Koraput469	Malkangiri456	Mayurbhanj470	Nabarangpur462	Nayagarh465	Nuapada463	Puri471	Rayagada452	Sambalpur466	Subarnapur453	Sundargarh
+State code: 27476	Karaikal477	Mahe475	Puducherry478	Yanam
+State code: 28485	Amritsar483	Barnala493	Bathinda499	Faridkot484	Fatehgarh Sahib487	Fazilka480	Ferozpur489	Gurdaspur481	Hoshiarpur492	Jalandhar479	Kapurthala488	Ludhiana482	Mansa491	Moga486	Pathankot494	Patiala497	Rup Nagar498	Sangrur496	SAS Nagar500	SBS Nagar490	Sri Muktsar Sahib495	Tarn Taran
+State code: 29507	Ajmer512	Alwar519	Banswara516	Baran528	Barmer508	Bharatpur523	Bhilwara501	Bikaner514	Bundi521	Chittorgarh530	Churu511	Dausa524	Dholpur520	Dungarpur517	Hanumangarh505	Jaipur I506	Jaipur II527	Jaisalmer533	Jalore515	Jhalawar510	Jhunjhunu502	Jodhpur525	Karauli503	Kota532	Nagaur529	Pali522	Pratapgarh518	Rajsamand534	Sawai Madhopur513	Sikar531	Sirohi509	Sri Ganganagar526	Tonk504	Udaipur
+State code: 30535	East Sikkim537	North Sikkim538	South Sikkim536	West Sikkim
+State code: 31779	Aranthangi555	Ariyalur578	Attur565	Chengalpet571	Chennai778	Cheyyar539	Coimbatore547	Cuddalore566	Dharmapuri556	Dindigul563	Erode552	Kallakurichi557	Kanchipuram544	Kanyakumari559	Karur780	Kovilpatti562	Krishnagiri540	Madurai576	Nagapattinam558	Namakkal577	Nilgiris564	Palani573	Paramakudi570	Perambalur575	Poonamallee546	Pudukkottai567	Ramanathapuram781	Ranipet545	Salem561	Sivaganga580	Sivakasi551	Tenkasi541	Thanjavur569	Theni554	Thoothukudi (Tuticorin)560	Tiruchirappalli548	Tirunelveli550	Tirupattur568	Tiruppur572	Tiruvallur553	Tiruvannamalai574	Tiruvarur543	Vellore542	Viluppuram549	Virudhunagar
+State code: 32582	Adilabad583	Bhadradri Kothagudem581	Hyderabad584	Jagtial585	Jangaon586	Jayashankar Bhupalpally587	Jogulamba Gadwal588	Kamareddy589	Karimnagar590	Khammam591	Kumuram Bheem592	Mahabubabad593	Mahabubnagar594	Mancherial595	Medak596	Medchal612	Mulugu597	Nagarkurnool598	Nalgonda613	Narayanpet599	Nirmal600	Nizamabad601	Peddapalli602	Rajanna Sircilla603	Rangareddy604	Sangareddy605	Siddipet606	Suryapet607	Vikarabad608	Wanaparthy609	Warangal(Rural)610	Warangal(Urban)611	Yadadri Bhuvanagiri
+State code: 33614	Dhalai615	Gomati616	Khowai617	North Tripura618	Sepahijala619	South Tripura620	Unakoti621	West Tripura
+State code: 34622	Agra623	Aligarh625	Ambedkar Nagar626	Amethi627	Amroha628	Auraiya646	Ayodhya629	Azamgarh630	Badaun631	Baghpat632	Bahraich633	Balarampur634	Ballia635	Banda636	Barabanki637	Bareilly638	Basti687	Bhadohi639	Bijnour640	Bulandshahr641	Chandauli642	Chitrakoot643	Deoria644	Etah645	Etawah647	Farrukhabad648	Fatehpur649	Firozabad650	Gautam Buddha Nagar651	Ghaziabad652	Ghazipur653	Gonda654	Gorakhpur655	Hamirpur656	Hapur657	Hardoi658	Hathras659	Jalaun660	Jaunpur661	Jhansi662	Kannauj663	Kanpur Dehat664	Kanpur Nagar665	Kasganj666	Kaushambi667	Kushinagar668	Lakhimpur Kheri669	Lalitpur670	Lucknow671	Maharajganj672	Mahoba673	Mainpuri674	Mathura675	Mau676	Meerut677	Mirzapur678	Moradabad679	Muzaffarnagar680	Pilibhit682	Pratapgarh624	Prayagraj681	Raebareli683	Rampur684	Saharanpur685	Sambhal686	Sant Kabir Nagar688	Shahjahanpur689	Shamli690	Shravasti691	Siddharthnagar692	Sitapur693	Sonbhadra694	Sultanpur695	Unnao696	Varanasi
+State code: 35704	Almora707	Bageshwar699	Chamoli708	Champawat697	Dehradun702	Haridwar709	Nainital698	Pauri Garhwal706	Pithoragarh700	Rudraprayag701	Tehri Garhwal705	Udham Singh Nagar703	Uttarkashi
+State code: 36710	Alipurduar District711	Bankura712	Basirhat HD (North 24 Parganas)713	Birbhum714	Bishnupur HD (Bankura)715	Cooch Behar783	COOCHBEHAR716	Dakshin Dinajpur717	Darjeeling718	Diamond Harbor HD (S 24 Parganas)719	East Bardhaman720	Hoogly721	Howrah722	Jalpaiguri723	Jhargram724	Kalimpong725	Kolkata726	Malda727	Murshidabad728	Nadia729	Nandigram HD (East Medinipore)730	North 24 Parganas731	Paschim Medinipore732	Purba Medinipore733	Purulia734	Rampurhat HD (Birbhum)735	South 24 Parganas736	Uttar Dinajpur737	West Bardhaman
+State code: 37138	Daman139	Diu
+State code: 38
+State code: 39791	Chamba795	Kangra792	Kinnaur793	Mandi794	Shimla
+Available on: 02-05-2021	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Brahmeswarpatna UPHC (18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Saheed Nagar UPHC (Age18-44 )	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Saheed Nagar UPHC (Age18-44 )	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Saheed Nagar UPHC (Age18-44 )	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 1
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 186
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Naharakanta UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Naharakanta UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Naharakanta UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Patia UCHC BBSR (Age 14-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Patia UCHC BBSR (Age 14-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Patia UCHC BBSR (Age 14-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Patia UCHC BBSR (Age 14-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Central Hosp E Co Rly Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Central Hosp E Co Rly Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Jharapada UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Jharapada UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+Available on: 03-05-2021	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Brahmeswarpatna UPHC (18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Saheed Nagar UPHC (Age18-44 )	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Saheed Nagar UPHC (Age18-44 )	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Saheed Nagar UPHC (Age18-44 )	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 159
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 1
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Naharakanta UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Naharakanta UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Naharakanta UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Patia UCHC BBSR (Age 14-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Patia UCHC BBSR (Age 14-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Patia UCHC BBSR (Age 14-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Patia UCHC BBSR (Age 14-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Central Hosp E Co Rly Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Central Hosp E Co Rly Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Jharapada UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Jharapada UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+Available on: 04-05-2021	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Naharakanta UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Naharakanta UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Central Hosp E Co Rly Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Saheed Nagar UPHC (Age18-44 )	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Saheed Nagar UPHC (Age18-44 )	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Jharapada UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Patia UCHC BBSR (Age 14-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Patia UCHC BBSR (Age 14-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Patia UCHC BBSR (Age 14-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+Available on: 05-05-2021	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Patia UCHC BBSR (Age 14-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Patia UCHC BBSR (Age 14-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Naharakanta UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Saheed Nagar UPHC (Age18-44 )	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+Available on: 06-05-2021	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Kalpana UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Patia UCHC BBSR (Age 14-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+Available on: 07-05-2021	Municipality Hosp BMC Age18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	AIIMS BHUBANESWAR (Age 18-44)	AIIMS Urban	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Samantapuri(Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Baramunda UPHC WN50 (Age18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit IV UCHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 8 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Unit 9 UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+Available on: 08-05-2021	UPHC Rasulgarh (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Gadakan (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC POKHARIPUT(AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Dumuduma UCHC Age 18-44	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC C S PUR (AGE 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Ghatikia (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+Available on: 09-05-2021	UPHC Unit 3 (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+Available on: 10-05-2021	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Capital Hospital 1(18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	Captal Hospital 2 (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	IRC Village UPHC (Age 18-44)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+Available on: 11-05-2021	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+Available on: 12-05-2021	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+Available on: 13-05-2021	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+Available on: 14-05-2021	UPHC Sikharchandi (18-44yrs)	Bhubaneswar MC	 Price: Free	 Available Capacity: 0
+
+Available on: 15-05-2021Available on: 16-05-2021Available on: 17-05-2021Available on: 18-05-2021Available on: 19-05-2021Available on: 20-05-2021Available on: 21-05-2021

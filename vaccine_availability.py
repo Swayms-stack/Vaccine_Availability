@@ -10,7 +10,7 @@ import pandas as pd
 import smtplib
 
 def logger(line):
-    with open('log.txt','w+') as f:
+    with open('log.txt','a+') as f:
         f.write(line)
         
 
@@ -59,12 +59,14 @@ for INP_DATE in date_str:
                             """
                             if(session["vaccine"] != ''):
                                 logger("\t Vaccine: " + str(session["vaccine"]))
-                            print("\n\n")
+                            # print("\n\n")
+                            logger("\n\n")
                             
             
                 
         else:
-            print("No available slots on {}".format(INP_DATE))
+            # print("No available slots on {}".format(INP_DATE))
+            logger("No available slots on {}".format(INP_DATE))
 
 def send_mail(self):
     server = smtplib.SMTP('smtp.gmail.com', 587)
