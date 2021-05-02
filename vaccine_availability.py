@@ -121,7 +121,7 @@ def send_mail(body, receiver_email='swaymsdennings@gmail.com',  subject='VACCINE
         receiver_email,
         msg
     )
-    print('Email has been sent !')
+    # print('Email has been sent !')
 
     server.quit()
 
