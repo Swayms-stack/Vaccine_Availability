@@ -3,6 +3,6 @@
 # ipykernel  # Notebooks
 # Add Heroku Files + Flask
 
-gunicorn==20.0.4 # Deployment to Heroku
+gunicorn # Deployment to Heroku
 
-Flask==1.1.1
+Flask
