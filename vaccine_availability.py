@@ -47,11 +47,10 @@ for INP_DATE in date_str:
                 for center in resp_json["centers"]:
                     for session in center["sessions"]:
                         if session["min_age_limit"] <= age:
-                            logger("\t" +center["name"])
-                            logger("\t" +center["block_name"])
-                            logger("\t Price: " +center["fee_type"])
-                            logger("\t Available Capacity: " +session["available_capacity"])
-                            logger("Available on: {}".format(INP_DATE))
+                            logger("\t" +str(center["name"]))
+                            logger("\t" +str(center["block_name"]))
+                            logger("\t Price: " + str(center["fee_type"]))
+                            logger("\t Available Capacity: " + str(session["available_capacity"]))
                             """
                             print("\t", center["name"])
                             print("\t", center["block_name"])
@@ -59,8 +58,7 @@ for INP_DATE in date_str:
                             print("\t Available Capacity: ", session["available_capacity"])
                             """
                             if(session["vaccine"] != ''):
-                                print("\t Vaccine: ", session["vaccine"])
-                                logger("Available on: {}".format(INP_DATE))
+                                logger("\t Vaccine: " + str(session["vaccine"]))
                             print("\n\n")
                             
             
