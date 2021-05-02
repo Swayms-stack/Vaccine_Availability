@@ -6,7 +6,7 @@ python vaccine_availability.py
 import requests
 import datetime
 import json
-import pandas as pd
+# import pandas as pd
 import smtplib
 
 
