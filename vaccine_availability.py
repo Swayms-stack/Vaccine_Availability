@@ -133,6 +133,7 @@ def convert_to_str(Available_Slots):
         for key in slots:
             val = slots[key]
             string += str(key) + " : " + str(val) + "\n"
+        string += "\n\n"
     return string
 
 
