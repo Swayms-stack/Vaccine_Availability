@@ -1,7 +1,7 @@
 """
 python app.py
 """
- 
+
 from flask import Flask, render_template, request, url_for, send_from_directory, jsonify, send_file
 import os
 from vaccine_availability import getSlots, convert_to_str, send_mail
@@ -36,3 +36,5 @@ if __name__ == '__main__':
         send_mail(body, receiver_email=mail,
                   subject='VACCINE AVAILABILITY NOTIFICATION')
 """
+
+
