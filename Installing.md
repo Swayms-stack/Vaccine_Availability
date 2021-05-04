@@ -1,8 +1,5 @@
-virtualenv VaccineEnv
-VaccineEnv\Scripts\activate
+virtualenv AugEnv
+AugEnv\Scripts\activate
 conda.bat deactivate
 
-
 pip install -r requirements.txt
-pip list -> full_reqs.txt
-
