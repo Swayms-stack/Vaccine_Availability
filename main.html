@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description"
+    content="Get notified by mail for covid vaccines availability in your local area anywhere in India" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="..\assets\logos\logo_1.png" />
+
+  <link href="/your-path-to-fontawesome/css/brands.css" rel="stylesheet">
+  <link href="/your-path-to-fontawesome/css/solid.css" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/71a2092a27.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="..\assets\css\style.css">
+  <title>Vaccine Availability</title>
+
+<body>
+
+  <div class="container-fluid g-0">
+    <div class="row ">
+      <div class="col-md-7 col-sm-12 " id="first">
+        <h1>Register</h1>
+
+
+        <form action="/register" method="POST">
+          <div class="row">
+            <div class="col-md-7 col-sm-12">
+              <div class="form-group mt-5">
+                <label for="exampleInputEmail1">Email</label>
+                <input type="email" class="form-control" id="InputEmail" aria-describedby="emailHelp"
+                  placeholder="Enter your email">
+
+              </div>
+              <div class="form-group mt-5">
+                <label for="DistrictID" data-toggle="tooltip" data-placement="top" title="Tooltip on top">District
+                  ID</label>
+                <a href="https://github.com/khanfarhan10/VaccineAvailabilityNotifier/blob/main/district_data.csv"
+                  target="_blank">
+                  <i class="fas fa-question" data-toggle="tooltip" style="font-size: 30px; color: black;"
+                    data-html="true" data-tooltip title="Click the question mark to know your district id"></i>
+                </a>
+                <input type="districtid" class="form-control" id="InputDistrict" placeholder="Enter your District ID">
+              </div>
+
+            </div>
+            <div class="col-md-5 col-sm-12" id="small_inp">
+              <div class="form-group mt-5">
+                <label for="DistrictID">Age</label>
+                <input type="districtid" class="form-control" id="InputAge" placeholder="Enter your age">
+              </div>
+              <div class="form-group mt-5">
+                <label for="DistrictID">Days</label>
+                <input type="districtid" class="form-control" id="InputDays"
+                  placeholder="Enter how many days you want notifications">
+              </div>
+
+              <div class="form-check mt-5">
+                <!-- <input type="checkbox" class="form-check-input" id="exampleCheck1"> -->
+                <label class="b-contain" id="chek">
+                  <input type="checkbox" id="Check1">
+                  <div class="b-input"></div>
+                </label>
+                <label class="form-check-label" for="exampleCheck1" id="label-check">Accept to Terms & Conditions and
+                  Register for Updates</label>
+                <div class="btn-2">
+                  <button type="submit" class="btn btn-dark btn-lg w-50 mt-5 btn-lg b-2  p-2">Register</button>
+                </div>
+              </div>
+            </div>
+
+
+
+
+          </div>
+
+        </form>
+        <h2>Follow us on Github</h2>
+        <div class="btn-1">
+          <a href="" target="_blank">
+            <button type="button" class="btn btn-light btn-lg w-25 b-1 " alt="github id">
+              <i class="fab fa-github" style="font-size: 40px;"></i>
+
+            </button></a>
+        </div>
+      </div>
+      <div class="col-md-5 col-sm-12 p-0" id="second">
+        <div class="overlay">
+          <div class="text-box text-center">
+            <h1>Vaccine Availability
+              Notifier</h1>
+            <p>Get notified (via email) regarding the COVID Vaccine availability in your area</p>
+            <p>
+              <> by :
+                Swayamshree Mohanty,
+                Farhan Hai Khan,
+                UI: Srikant Shubham,
+                Manisha Parichha
+            </p>
+
+          </div>
+
+          <img src="..\assets\images\vaccine.jpg" alt="covid-vaccine" class="img-fluid ">
+
+        </div>
+
+
+
+      </div>
+    </div>
+
+
+
+
+
+
+
+  </div>
+
+
+  <!--------- scripts      ------------------>
+
+  <script src="https://code.jquery.com/jquery-3.6.0.slim.js"
+    integrity="sha256-HwWONEZrpuoh951cQD1ov2HUK5zA5DwJ1DNUXaM6FsY=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+  <script src="https://kit.fontawesome.com/71a2092a27.js" crossorigin="anonymous"></script>
+  <script>
+    $(function () {
+      $('[data-tooltip]').tooltip();
+
+    });
+  </script>
+</body>
+
+</html>
